@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.VisualStudio.Apex.Core", "Xamarin.VisualStudio.Apex.Core\Xamarin.VisualStudio.Apex.Core.csproj", "{4BDAB593-9D72-4721-9D25-D2D599A200D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.VisualStudio.Apex.Tests", "Xamarin.VisualStudio.Apex.Tests\Xamarin.VisualStudio.Apex.Tests.csproj", "{3BF4EC76-0F30-4226-9B0E-8D9C7D167BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDAB593-9D72-4721-9D25-D2D599A200D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDAB593-9D72-4721-9D25-D2D599A200D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDAB593-9D72-4721-9D25-D2D599A200D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDAB593-9D72-4721-9D25-D2D599A200D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF4EC76-0F30-4226-9B0E-8D9C7D167BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF4EC76-0F30-4226-9B0E-8D9C7D167BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF4EC76-0F30-4226-9B0E-8D9C7D167BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF4EC76-0F30-4226-9B0E-8D9C7D167BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
